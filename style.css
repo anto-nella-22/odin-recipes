@@ -1,0 +1,77 @@
+/* home page */
+
+.title {
+    font-family: Geneva, 'Times New Roman', sans-serifserif;
+    background-color: rgba(255, 170, 0, 0.665);
+    text-align: center;
+}
+
+.pancake, .fts, .fse {
+    font-size: 30px;
+    font-family: Geneva, 'Times New Roman', sans-serifserif;
+    color: rgba(255, 170, 0, 0.665);
+}
+
+
+/* pancake page */
+
+.pimage {
+    height: auto;
+    width: 500px;
+    float: left;
+    border-radius: 10px;
+    margin-right: 30px;
+}
+
+#phead1 {
+    text-align: left;
+    font-size: 50px;
+    margin-left: 150px;
+}
+
+#phead2 {
+    text-align: justify;
+    margin-top: 70px;
+}
+
+/* french toast sticks page */
+
+.ftimage {
+    height: auto;
+    width: 700px;
+    float: left;
+    border-radius: 10px;
+    margin-right: 30px;
+}
+
+#fthead1 {
+    text-align: left;
+    font-size: 50px;
+    margin-left: 150px;
+}
+
+#fthead2 {
+    text-align: justify;
+    margin-top: 50px;
+}
+
+/* scrambled eggs page */
+
+.seimage {
+    height: auto;
+    width: 800px;
+    float: left;
+    border-radius: 10px;
+    margin-right: 30px;
+}
+
+#sehead1 {
+    text-align: left;
+    font-size: 50px;
+    margin-left: 150px;
+}
+
+#sehead2 {
+    text-align: justify;
+    margin-top: 120px;
+}
